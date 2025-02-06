@@ -1,6 +1,7 @@
 
 package rffs;
-
+/*hope you like it <3
+  also this code was written using netbeans*/
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Scanner;
